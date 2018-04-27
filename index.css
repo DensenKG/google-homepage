@@ -1,0 +1,44 @@
+.center {
+  display: block;
+  width: 272px;
+  height: 92px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 109px;
+}
+
+#logo {
+  margin-top: 89px;
+  height: 233px;
+}
+#buttons {
+  padding-top: 18px;
+}
+
+form {
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  position: absolute;
+}
+
+.bar {
+  width: 503px;
+  height: 34px;
+  font: 16px arial, sans-serif;
+}
+.btn {
+  text-align: center;
+  height: 36px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px 11px 4px;
+  padding: 0px 16px 0px 16px;
+  text-align: center;
+}
